@@ -1,0 +1,4 @@
+[package]
+
+name = "roman_numeral_code_kata_rust"
+version = "1.0.0"
